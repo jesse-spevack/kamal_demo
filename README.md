@@ -1,24 +1,7 @@
-# README
+# Kamal Demo Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails application configured for deployment with Kamal.
 
-Things you may want to cover:
+Last updated: December 28, 2024
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Full guide: [Rails Deployments for Mere Mortals](https://verynormal.info/rails-deployments-for-mere-mortals/).
